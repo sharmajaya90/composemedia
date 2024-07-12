@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeMedia</string>
+    <string name="cd_play">Play</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Shows the currently playing music</string>
+    <string name="admob_app_id">ca-app-pub-4241681549957796~8958488308</string>
+</resources>
